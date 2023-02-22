@@ -4,7 +4,7 @@ I'm Priyanka Bhatta, a learner with a passion for using data-driven approaches t
 
 🔭 I’m currently working on:
 - Exploring natural language processing techniques for text data.
-- Building web applications using Django and Flask frameworks.
+- Building web applications using Django framework.
 
 
 🌱 I’m currently learning:
