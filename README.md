@@ -4,7 +4,7 @@ I'm Priyanka Bhatta, a learner with a passion for using data-driven approaches t
 
 🔭 I’m currently:
 - Building EasySummary (A NLP based web summary application).
-- Building Malikarjun Viddhyashram - A Non Profit Organization in Nepal.
+- Building Web Application for Malikarjun Viddhyashram - A Non Profit Organization in Nepal.
 
 ## Highlighted Projects:
 
