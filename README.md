@@ -2,22 +2,9 @@
 
 I'm Priyanka Bhatta, a learner with a passion for using data-driven approaches to solve real-world problems.
 
-🔭 I’m currently working on:
-- Exploring natural language processing techniques for text data.
-- Building web applications using Django framework.
-
-
-🌱 I’m currently learning:
-- Django framework to build web applications
-- Natural Language Processing for my very own app 'EasySummary'
-
-👯 I’m looking to collaborate on:
-- Open-source projects related to data science, machine learning, and artificial intelligence.
-- Innovative projects that tackle real-world problems and have a positive impact on society.
-
-📫 How to reach me:
-- Email: priyankabhatta2323@gmail.com
-- LinkedIn: https://www.linkedin.com/in/priyanka-bhatta/
+🔭 I’m currently:
+- Building EasySummary (A NLP based web summary application).
+- Building Malikarjun Viddhyashram - A Non Profit Organization in Nepal.
 
 ## Highlighted Projects:
 
@@ -45,13 +32,13 @@ I'm Priyanka Bhatta, a learner with a passion for using data-driven approaches t
 - Matplotlib 📈
 - Seaborn 🌊
 - Plotly 📊
-- Bokeh 🌌
-- Scrapy 🕸️
 
 ### Web Development Frameworks 🌐
 - Django 🎸
 
+📫 How to reach me:
+- Email: priyankabhatta2323@gmail.com
+- LinkedIn: https://www.linkedin.com/in/priyanka-bhatta/
+
 ## I'm Open to Freelancing/Job Opportunities!
 If you have any projects or opportunities you'd like to discuss, please feel free to reach out via email or LinkedIn. Let's create something awesome together! 😄
-
-
