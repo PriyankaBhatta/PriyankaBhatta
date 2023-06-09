@@ -10,8 +10,8 @@ I'm Priyanka Bhatta, a learner with a passion for using data-driven approaches t
 ## Using Big Data Analytics to analyze and identify patterns storm events across different states and territories of USA for year 2022
 It is a big data project that is performed using pyspark where I have analyzed trends and patterns of storm events that occured in various states and territories of  US in 2022. Check it out on: https://github.com/PriyankaBhatta/Using-Big-Data-Analytics-to-analyze-and-identify-patterns-storm-events-across-different-states-and-t
 
-## Malikarjun-Viddhyashram
-🚀 This is the current freelancing project I am working on. This repository consists of code used to build Malikarjun Viddhyashram website which is a Non Profit Organization in Nepal to Serve various Social Activities.Check it out on https://github.com/PriyankaBhatta/Malikarjun-Viddhyashram.
+## Malikarjun
+🚀 This is the current freelancing project I am working on. This repository consists of code used to build Malikarjun Viddhyashram website which is a Non Profit Organization in Nepal to Serve various Social Activities.Check it out on https://github.com/PriyankaBhatta/Malikarjun.
 
 
 📫 How to reach me:
