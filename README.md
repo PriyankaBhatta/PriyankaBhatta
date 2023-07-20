@@ -5,5 +5,6 @@ I'm Priyanka Bhatta, a learner with a passion for using data-driven approaches t
 📫 How to reach me:
 - Email: priyankabhatta2323@gmail.com
 - LinkedIn: https://www.linkedin.com/in/priyanka-bhatta/
+- Blog : https://medium.com/@priyankabhatta1111
 
 
